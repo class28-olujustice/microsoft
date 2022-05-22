@@ -1,0 +1,5 @@
+print('james')
+print('thomas')
+print('apple')
+print('class28')
+print('tesla')
